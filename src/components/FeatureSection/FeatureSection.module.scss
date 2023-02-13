@@ -1,0 +1,19 @@
+.FeatureSection{
+    padding-top: 30px !important;
+    padding-bottom: 30px !important;
+}
+.single_feature{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.single_feature h2 i{
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+.single_feature h6{
+    font-weight: 600;
+}
+.single_feature p{
+    text-align: center;
+}
